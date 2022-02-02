@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    container_name: Jekyll
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --force_polling --verbose --livereload
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
