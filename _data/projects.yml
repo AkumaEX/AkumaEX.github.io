@@ -1,12 +1,12 @@
 - name: e-Roubo Celular SP
   image: /assets/images/e_roubo_celular.png
   link: https://play.google.com/store/apps/details?id=com.akumaex.e_roubo_celular
-  description: Aplicativo para evitar roubos de celulares em SP (Android)
+  description: Aplicativo para evitar roubos de celulares em SP [DESCONTINUADO]
 - name: e-Roubo Veículos SP
   image: /assets/images/e_roubo_veiculos.png
   link: https://play.google.com/store/apps/details?id=com.akumaex.e_roubo_veiculos
-  description: Aplicativo para evitar roubos e furtos de veículos em SP (Android)
-- name: Jogo da Velha Invencível
+  description: Aplicativo para evitar roubos e furtos de veículos em SP [DESCONTINUADO]
+- name: Mapa do Crime SP
   image: /assets/images/coming_soon.jpg
   link: 
-  description: Aplicativo de Jogo da Velha implementado com algoritmo invencível.
+  description: Aplicativo para evitar roubos e furtos de celulares e veículos em SP (Android)
